@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://columbiapestcontrolco.com/sitemap.xml
